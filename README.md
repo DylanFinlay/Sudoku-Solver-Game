@@ -3,15 +3,15 @@ This repository contains two main files. One file is the original sudoku solver 
 
 
 # Instructions to play
-Launch the Sudoku game by running the SudokuGUI.py Python script.
-The game window will open, displaying the Sudoku grid.
+Launch the Sudoku game by running the SudokuGUI.py Python script.  
+The game window will open, displaying the Sudoku grid.  
 Use the mouse cursor to navigate and interact with the game.
 
 ## Buttons and their purposes:
 
-Number Keys (1-9): Press any number key to select the corresponding digit as the input value.
-Delete Key: Press the Delete key to clear the selected cell's value.
-Spacebar: Press the Spacebar to automatically solve the Sudoku puzzle.
+Number Keys (1-9): Press any number key to select the corresponding digit as the input value.  
+Delete Key: Press the Delete key to clear the selected cell's value.  
+Spacebar: Press the Spacebar to automatically solve the Sudoku puzzle.  
 Return/Enter Key: Press the Return/Enter key to enter the selected digit into the Sudoku grid.
 
 ## Gameplay:
