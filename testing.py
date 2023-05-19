@@ -1,6 +1,3 @@
-# from SudokuSolver import solve
-# from SudokuSolver import printBoard
-
 from SudokuSolver import solve, printBoard
 
 board = [
