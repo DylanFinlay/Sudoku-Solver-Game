@@ -1,5 +1,5 @@
 # Sudoku-Solver
-This repository contains two main files. One file is the original sudoku solver that I wrote, which is capable of solving any sudoku board using the backtracking algorithm. The second file was added in to create a Graphical User Interface where a user can play sudoku.
+This repository contains two main files. One file is the original sudoku solver that I wrote, which is capable of solving any sudoku board using the backtracking algorithm. The second file was added in to create a Graphical User Interface where a user can play sudoku.  
 ![Sudoku1](https://github.com/DylanFinlay/Sudoku-project/assets/129635550/0af8fc2a-06b0-4027-9f1e-1f5e433b450b) 
 
 
