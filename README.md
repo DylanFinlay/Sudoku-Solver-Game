@@ -7,14 +7,14 @@ Launch the Sudoku game by running the SudokuGUI.py Python script.
 The game window will open, displaying the Sudoku grid.
 Use the mouse cursor to navigate and interact with the game.
 
-Buttons and their purposes:
+## Buttons and their purposes:
 
 Number Keys (1-9): Press any number key to select the corresponding digit as the input value.
 Delete Key: Press the Delete key to clear the selected cell's value.
 Spacebar: Press the Spacebar to automatically solve the Sudoku puzzle.
 Return/Enter Key: Press the Return/Enter key to enter the selected digit into the Sudoku grid.
 
-Gameplay:
+## Gameplay:
 
 Select a cell by clicking on it. The selected cell will be highlighted in red.
 Choose a number (1-9) to input into the selected cell. The selected digit will be displayed in the cell.
