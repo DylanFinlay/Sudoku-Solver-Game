@@ -1,9 +1,6 @@
 # Sudoku-Solver
 This repository contains two main files. One file is the original sudoku solver that I wrote, which is capable of solving any sudoku board using the backtracking algorithm. The second file was added in to create a Graphical User Interface where a user can play sudoku.
-<!-- ![Sudoku1](https://github.com/DylanFinlay/Sudoku-project/assets/129635550/0af8fc2a-06b0-4027-9f1e-1f5e433b450b) 
-![Sudoku2](https://github.com/DylanFinlay/Sudoku-project/assets/129635550/efdb4e8c-e450-466f-b0e9-2664a192e90d) -->
-
-<img src="![Sudoku1](https://github.com/DylanFinlay/Sudoku-project/assets/129635550/0af8fc2a-06b0-4027-9f1e-1f5e433b450b)" width="300"/> <img src="![Sudoku2](https://github.com/DylanFinlay/Sudoku-project/assets/129635550/efdb4e8c-e450-466f-b0e9-2664a192e90d)" width="300"/>
+![Sudoku1](https://github.com/DylanFinlay/Sudoku-project/assets/129635550/0af8fc2a-06b0-4027-9f1e-1f5e433b450b) 
 
 
 # Instructions to play
@@ -30,6 +27,8 @@ The game will end when all cells are filled correctly and the entire Sudoku grid
 Remember to pay attention to the strikes (X) displayed at the bottom. Strikes are counted when an incorrect number is entered in a cell.  
 
 Enjoy playing Sudoku and have fun!
+
+![Sudoku2](https://github.com/DylanFinlay/Sudoku-project/assets/129635550/efdb4e8c-e450-466f-b0e9-2664a192e90d)
 
 
 
