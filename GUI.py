@@ -54,7 +54,7 @@ class Grid:
         # Draw Grid Lines
         gap = self.width / 9
         for i in range(self.rows+1):
-            if i % 3 == 0 and i != 0:
+            if i % 3 == 0:
                 thick = 4
             else:
                 thick = 1
@@ -81,10 +81,6 @@ class Grid:
             self.cubes[row][col].set_temp(0)
 
     def click(self, pos):
-        """
-        :param: pos
-        :return: (row, col)
-        """
         if pos[0] < self.width and pos[1] < self.height:
             gap = self.width / 9
             x = pos[0] // gap
