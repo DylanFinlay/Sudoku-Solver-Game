@@ -2,19 +2,19 @@
 This repository contains two main files. One file is the original sudoku solver that I wrote, which is capable of solving any sudoku board using the backtracking algorithm. The second file was added in to create a Graphical User Interface where a user can play sudoku.  
 
 # Instructions to play
-Launch the Sudoku game by running the SudokuGUI.py Python script.  
-The game window will open, displaying the Sudoku grid.  
-Use the mouse cursor to navigate and interact with the game.
+- Launch the Sudoku game by running the SudokuGUI.py Python script.  
+- The game window will open, displaying the Sudoku grid.  
+- Use the mouse cursor to navigate and interact with the game.
 
 ![Resize1](https://github.com/DylanFinlay/Sudoku-project/assets/129635550/d9f35788-f789-420b-9612-85b95be6ec2c)
 ![Resize2](https://github.com/DylanFinlay/Sudoku-project/assets/129635550/66c7306e-9263-4805-8f93-efe82ca25c6f)
 
 ## Buttons and their purposes:
 
-Number Keys (1-9): Press any number key to select the corresponding digit as the input value.  
-Delete Key: Press the Delete key to clear the selected cell's value.  
-Spacebar: Press the Spacebar to automatically solve the Sudoku puzzle.  
-Return/Enter Key: Press the Return/Enter key to enter the selected digit into the Sudoku grid.
+- Number Keys (1-9): Press any number key to select the corresponding digit as the input value.  
+- Delete Key: Press the Delete key to clear the selected cell's value.  
+- Spacebar: Press the Spacebar to automatically solve the Sudoku puzzle.  
+- Return/Enter Key: Press the Return/Enter key to enter the selected digit into the Sudoku grid.
 
 ## Gameplay:
 
