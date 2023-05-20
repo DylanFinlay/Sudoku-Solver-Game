@@ -18,14 +18,14 @@ Return/Enter Key: Press the Return/Enter key to enter the selected digit into th
 
 ## Gameplay:
 
-Select a cell by clicking on it. The selected cell will be highlighted in red.  
-Choose a number (1-9) to input into the selected cell. The selected digit will be displayed in the cell.  
-If you want to change or clear a value, either select the cell again and enter a different number or press the Delete key to clear the cell.  
-To check if the number entered in the cell is correct, press the Return/Enter key. If the number is correct, it will be displayed in black. Otherwise, an 'X' will be displayed in red.  
-Continue filling in the cells with the correct numbers based on the Sudoku rules.  
-If you get stuck or want to see the solution, press the Spacebar to automatically solve the Sudoku puzzle.  
-The game will end when all cells are filled correctly and the entire Sudoku grid is solved.  
-Remember to pay attention to the strikes (X) displayed at the bottom. Strikes are counted when an incorrect number is entered in a cell.  
+- Select a cell by clicking on it. The selected cell will be highlighted in red.  
+- Choose a number (1-9) to input into the selected cell. The selected digit will be displayed in the cell.  
+- If you want to change or clear a value, either select the cell again and enter a different number or press the Delete key to clear the cell.  
+- To check if the number entered in the cell is correct, press the Return/Enter key. If the number is correct, it will be displayed in black. Otherwise, an 'X' will be displayed in red.  
+- Continue filling in the cells with the correct numbers based on the Sudoku rules.  
+- If you get stuck or want to see the solution, press the Spacebar to automatically solve the Sudoku puzzle.  
+- The game will end when all cells are filled correctly and the entire Sudoku grid is solved.  
+- Remember to pay attention to the strikes (X) displayed at the bottom. Strikes are counted when an incorrect number is entered in a cell.  
 
 Enjoy playing Sudoku and have fun!
 
