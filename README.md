@@ -1,5 +1,7 @@
 # Sudoku-Solver
-This repository contains two main files. One file is the original sudoku solver that I wrote, which is capable of solving any sudoku board using the backtracking algorithm. The second file was added in to create a Graphical User Interface where a user can play sudoku.  
+This repository contains two main files. 
+- One file is the original sudoku solver that I wrote, which is capable of solving any sudoku board using the backtracking algorithm. This code uses 3 main functions: One function to find the first empty slot on the board, one function to verify the validity of a value being entered into a certain position on the board, and a solve function which uses the first two as well as the back tracking algorithm to solve the entire board.
+- The second file was added in to create a Graphical User Interface where a user can play sudoku. This script uses pygame along with the time module to create a functioning Sudoku game that can be solved at any time by using the original Sudoku Solver functions. 
 
 # Instructions to play
 - Launch the Sudoku game by running the SudokuGUI.py Python script.  
