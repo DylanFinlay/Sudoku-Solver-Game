@@ -1,7 +1,8 @@
 # Sudoku-Solver
 This repository contains two main files. One file is the original sudoku solver that I wrote, which is capable of solving any sudoku board using the backtracking algorithm. The second file was added in to create a Graphical User Interface where a user can play sudoku.  
 
-![Sudoku1](Sudoku1.png)
+![Resize1](https://github.com/DylanFinlay/Sudoku-project/assets/129635550/d9f35788-f789-420b-9612-85b95be6ec2c)
+
 
 # Instructions to play
 Launch the Sudoku game by running the SudokuGUI.py Python script.  
