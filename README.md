@@ -8,8 +8,8 @@ This repository contains two main files.
 - The game window will open, displaying the Sudoku grid.  
 - Use the mouse cursor to navigate and interact with the game.
 
-![Resize1](https://github.com/DylanFinlay/Sudoku-project/assets/129635550/d9f35788-f789-420b-9612-85b95be6ec2c)
-![Resize2](https://github.com/DylanFinlay/Sudoku-project/assets/129635550/66c7306e-9263-4805-8f93-efe82ca25c6f)
+![SudokuUnsolved](SudokuUnsolved.png)
+![SudokuSolving](SudokuSolving.png)
 
 ## Buttons and their purposes:
 
