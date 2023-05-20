@@ -29,9 +29,6 @@ Remember to pay attention to the strikes (X) displayed at the bottom. Strikes ar
 
 Enjoy playing Sudoku and have fun!
 
-![Sudoku2](https://github.com/DylanFinlay/Sudoku-project/assets/129635550/efdb4e8c-e450-466f-b0e9-2664a192e90d)
-
-
 
 
 
